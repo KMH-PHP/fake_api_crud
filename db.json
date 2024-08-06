@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "vv",
+      "email": "vvcc@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "aye aung",
+      "email": "ccngmail.com"
+    },
+    {
+      "id": "3",
+      "name": "ye ye",
+      "username": "Bret",
+      "email": "Sin@gmail.com",
+      "phone": "1111111",
+      "website": "hildegred.org"
+    },
+    {
+      "id": "4",
+      "name": "Hello ",
+      "email": "Sin@gmail.co"
+    },
+    {
+      "id": "5",
+      "name": "Sai Kaung Hein",
+      "email": "ss@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "vvvv",
+      "email": "vvvv"
+    },
+    {
+      "id": "7",
+      "name": "Hello world",
+      "email": "Hello@gamil.com"
+    }
+  ]
+}
